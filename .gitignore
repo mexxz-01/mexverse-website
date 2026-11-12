@@ -1,0 +1,4 @@
+*.b64
+*.json
+*.js
+!script.js
